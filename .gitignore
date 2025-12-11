@@ -9,3 +9,4 @@ pids
 node_modules
 dist
 *.js
+*.cjs
